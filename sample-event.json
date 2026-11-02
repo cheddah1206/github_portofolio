@@ -1,0 +1,9 @@
+{
+  "event_id": "EVT-DEMO-1001",
+  "timestamp": "2026-10-10T08:15:00Z",
+  "department": "Logistics",
+  "event_type": "SHIPMENT_DELAY",
+  "severity": "HIGH",
+  "entity_id": "ORD-55412",
+  "payload": { "delay_days": 5, "customer_commitment_at_risk": true, "customer_email": "jane.doe@example.com" }
+}
